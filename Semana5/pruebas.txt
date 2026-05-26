@@ -1,0 +1,3 @@
+En la ruta localhost:3000 al probarla en el navegador responde con servidor activo en la parte superior de la pantalla.
+En la ruta localhost:3000/saludo al probarla en el navegador responde con Hola comunidad.
+En la ruta localhost:3000/mensaje/Sira al probarla responde con Hola Sira.
